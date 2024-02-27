@@ -24,4 +24,17 @@
   background-color: grey;
 }
 
-
+.skills {
+  margin-top: 20px;
+}
+.skills h1 {
+  font-size: xx-large;
+  padding: 20px;
+}
+.skills ul {
+  font-size: x-large;
+  background-color: grey;
+  padding: 30px;
+  border-radius: 10px;
+  width: 25%;
+}

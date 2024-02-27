@@ -1,20 +1,19 @@
 .contact-me {
- 
   padding: 50px;
   font-size: x-large;
 }
 .table {
-    height: 300px;
-    width: 700px;
-  background-color: grey;
+  height: 300px;
+  width: 700px;
+  background-color: rgb(128, 128, 128);
   border-radius: 20px;
   padding: 30px;
   margin-bottom: 20px;
 }
-tr input{
-    width: 400px;
-    height: 45px;
-  }
+tr input {
+  width: 400px;
+  height: 45px;
+}
 
 .btn1 {
   padding: 7px;
@@ -25,10 +24,8 @@ tr input{
   font-size: large;
   background-color: transparent;
   text-decoration: none;
- 
 }
 .btn1:hover {
   color: rgb(23, 0, 128);
   background-color: white;
-  
 }
