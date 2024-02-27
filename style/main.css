@@ -8,3 +8,34 @@
     background-image: linear-gradient(rgb(92, 120, 161), rgb(0, 0, 0));
     height: 100vh;
   }
+  header {
+  margin: 20px;
+}
+.title {
+  color: white;
+  display: inline-block;
+  width: 50%;
+}
+
+.btn {
+  padding: 7px;
+  border: 4px;
+  color: rgb(255, 255, 255);
+  border-radius: 20px;
+  border-style: dotted;
+  float: right;
+  font-size: x-large;
+  background-color: transparent;
+  text-decoration: none;
+}
+.btn:hover {
+  color: rgb(23, 0, 128);
+  background-color: white;
+}
+footer {
+  background-color: black;
+  height: 40px;
+  color: grey;
+  margin-top: 190px;
+  text-align: center;
+}

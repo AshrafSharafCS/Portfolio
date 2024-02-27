@@ -1,28 +1,3 @@
-header {
-  margin: 20px;
-}
-.title {
-  color: white;
-  display: inline-block;
-  width: 50%;
-}
-
-.btn {
-  padding: 7px;
-  border: 4px;
-  color: rgb(255, 255, 255);
-  border-radius: 20px;
-  border-style: dotted;
-  float: right;
-  font-size: x-large;
-  background-color: transparent;
-  text-decoration: none;
-}
-.btn:hover {
-  color: rgb(23, 0, 128);
-  background-color: white;
-}
-
 .img {
   border-radius: 80px;
   border: solid;
@@ -49,19 +24,4 @@ header {
   background-color: grey;
 }
 
-.socialmedia {
-  padding: 10px;
-}
-.socialmedia h2 {
-  padding-left: 30px;
-}
-.sm-icons {
-  height: 40px;
-  width: 40px;
-}
-.icon {
-padding-top:10px;
-  padding-left: 40px;
-  display: inline-block;
-  
-}
+
